@@ -12,7 +12,11 @@
 Testando a Branch.
 
 
-5. Realizar um Fork e Pull Request; []
+5. Realizar um Fork e Pull Request; [x]
+
+## Observação
+Ese repositório possui como intuito a prática de comandos e o estudo do Git e Github.
+
 
 
 
