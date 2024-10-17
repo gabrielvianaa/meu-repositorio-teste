@@ -9,7 +9,11 @@
 3. Fazer alterações >> adicionar | Commitar | Enviar arquivos; [x]
 
 4. Criar uma nova Branch; []
+Testando a Branch.
 
-5. Realizar um Pull Request e Merge; []
 
-6. Criar nosso primeiro Fork; []
+5. Realizar um Fork e Pull Request; []
+
+
+
+
